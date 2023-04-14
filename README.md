@@ -38,6 +38,3 @@ The recognized gesture will be displayed on the screen.
 
 ------------------------------------------------------------------------
 
-<b> Credits </b>
-
-This program was developed by Mc0Shell.
