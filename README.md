@@ -35,3 +35,9 @@ When the program starts, it will open the default webcam and display the live vi
 Place your hand in front of the webcam and perform a hand gesture.
 The program will detect the landmarks on your hand and recognize the gesture you performed.
 The recognized gesture will be displayed on the screen.
+
+------------------------------------------------------------------------
+
+<b> Credits </b>
+
+This program was developed by Mc0Shell.
