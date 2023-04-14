@@ -38,3 +38,12 @@ The recognized gesture will be displayed on the screen.
 
 ------------------------------------------------------------------------
 
+|---------------||---------------|
+|![stop](https://user-images.githubusercontent.com/55066055/232136441-754df2bc-58be-4549-ac52-67f1fb7e1d64.PNG)||![rock](https://user-images.githubusercontent.com/55066055/232136540-374e610f-6f44-457c-a259-94c120928d43.PNG)|
+|---------------||---------------|
+|               ||               |
+|---------------||---------------|
+
+
+
+
