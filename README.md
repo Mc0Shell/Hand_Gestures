@@ -20,7 +20,7 @@ This program is a Python application that uses OpenCV and MediaPipe to predict h
   - Clone the repository or download the source code
   - Install the required packages:
      
-        pip install opencv-python mediapipe numpy tensorflow 
+        pip3 install opencv-python mediapipe numpy tensorflow 
         
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ This program is a Python application that uses OpenCV and MediaPipe to predict h
   - Open a terminal or command prompt in the directory containing the source code.
   - Run the program by executing the command:
 
-        python hand_gesture_recognition.py
+        python3 hand_gesture_recognition.py
 
 When the program starts, it will open the default webcam and display the live video feed.
 Place your hand in front of the webcam and perform a hand gesture.
